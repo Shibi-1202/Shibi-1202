@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer with a strong foundation in CSE (AI & ML). Skilled in Python, Java, and PostgreSQL, with hands-on experience in projects like Sudoku Solver and Real-Time Sign Language Translator. Passionate about problem-solving, building scalable applications, and exploring AI-driven solutions.
+Aspiring Machine Learning Engineer with a strong foundation in CSE (AI & ML). Skilled in Python, Java, and PostgreSQL, with hands-on experience in projects like Sudoku Solver and Real-Time Sign Language Translator. Passionate about problem-solving, building scalable applications, and exploring AI-driven solutions.
 
 
 ## 🌐 Socials:
